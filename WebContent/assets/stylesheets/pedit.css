@@ -1,0 +1,13 @@
+.section-dash .col-2 .image{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 20px;
+}
+.section-dash p{
+	margin-top:10px;
+	color: green;
+	text-align: center;;
+}
+.no-allow{
+	cursor: not-allowed;
+}

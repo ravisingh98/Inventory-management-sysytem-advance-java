@@ -1,0 +1,82 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.add-product label{
+  margin-top: 10px;
+  display: block;
+  color: #000;
+}
+.row{
+	display: flex;
+}
+.add-product{
+	margin-left: 50px;
+	width: 100%;
+}
+.add-product input{
+  height: 35px;
+  width: 100%;
+}
+.add-product .col-1{
+width: 45%;
+margin-right: 20px;
+}
+.add-product .col-2{
+  width: 45%;
+  }
+ .add-product .col-1 a{
+ color: #fff;
+ padding: 10px 23px;
+ background-color: #11b563;
+ display: block;
+ border-radius: 25px;
+ font-weight:bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-size: 16px;
+ }
+ .product-add{
+ margin-top: 10px;
+     width: 95%;
+ }
+ .right{
+  width: 30%;
+ }
+ .add-product button {
+	background-color: #ff4500;
+	padding: 10px 15px;
+	border: none;
+	font-weight:bold;
+ font-size: 16px;
+	color: #fff;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	border-radius: 25px;
+	outline: none;
+}
+.add-product button:hover{
+	background-color: #11b563;
+	cursor: pointer;
+}
+.add-product .col-1 a:hover{
+	background-color: #ff4500;
+	cursor: pointer;
+}
+ .add-product ul li{
+ display: inline-block;
+ background-color: transparent;
+ margin-left: 5px;
+ width: 37%;
+ }
+ 
+ .add-product ul li:hover {
+	background-color: transparent;
+	
+}
+.col-2 .file{
+border: 1px solid #a9a9a9;
+color: #000;	
+}
+.section-dash .product-add p{
+	color: green;
+}

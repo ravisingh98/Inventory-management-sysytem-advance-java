@@ -1,0 +1,44 @@
+.section-checkout{
+	background-color: #fff;
+	margin-top: 5px;
+	border-radius: 5px;
+}
+.section-checkout th{
+	background-color: #c5c5c5;
+	color: #222;
+	height: 30px;
+}
+.section-checkout td{
+	text-align: center;
+	border-bottom: 2px solid #c5c5c5;
+	padding: 5px 0px;
+}
+.section-checkout .w{
+	width: 24%;
+}
+.section-checkout img{
+	width: 80px;
+	height: 80px;
+}
+.section-checkout a{
+	color: red;
+}
+.section-checkout i{
+	font-size: 25px;
+}
+.section-checkout i:hover{
+	color: green;
+}
+.btn{
+	background-color: #0077b5;
+	padding: 10px 25px;
+	margin: 20px 0px 20px 0px;
+	color: #fff;
+	font-size: 16px;
+	margin-left: 45%;
+	font-weight:bold;
+	cursor: pointer;
+	outline: none;
+	border-radius: 20px;
+	border: none;
+}

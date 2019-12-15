@@ -1,0 +1,74 @@
+.section-dash .col-2 ul li {
+	margin-left:1%;
+    background-color: transparent;
+    display: block;
+    margin-top: 0px;
+    color: #ff4500;
+    text-transform: uppercase;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.section-dash .col-2 ul li a:hover{
+	color: rgba(32,158,0,1);
+}
+.section-dash .col-2 ul li:last-child {
+    margin-bottom: 0px;
+}
+.section-dash .col-2 ul li:hover {
+	background-color: transparent;
+}
+.section-dash .col-2 ul li a {
+    font-weight: bold;
+    display: block;
+    padding: 0px 0px;
+    font-size: 16px;
+}
+.section-dash .col-2 {
+    border-left: 2px solid #c9c9c9;
+}
+.section-dash .col-1 ul li {
+    width: 30%;
+    display: inline-block;
+    margin-left: 13px;
+    margin-top: 14px;
+    background-color: #fff;
+    box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.75);
+}
+.section-dash .col-1{
+	overflow: auto;
+}
+.section-dash .col-1 ul li:hover{
+	box-shadow: 0px 0px 8px 0px rgba(32,158,0,1);
+}
+.section-dash .col-1 ul li img{
+	width: 90%;
+	height: 30%;
+}
+.section-dash .col-1 ul li p{
+	color: #dc143c;
+	font-weight: bold;
+	font-size: 16px;
+	text-transform: none;
+	padding: 0px;
+}
+
+.menubar ul {
+    width: 530px;
+    margin: 0px auto;
+}
+.menubar i{
+	color: red;
+	font-size: 20px;
+}
+.section-dash .col-1 a{
+	margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fff;
+    font-size: 16px;
+    margin-left: 18%;
+    display: inline-block;
+    padding: 5px 12px;
+    background-color: #005594;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}

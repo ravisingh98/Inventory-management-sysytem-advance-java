@@ -1,0 +1,18 @@
+.section-checkout p{
+	color: red;
+	text-align: center;
+	
+}
+.printbtn{
+	background-color: #0077b5;
+	padding: 10px 25px;
+	margin: 20px 0px 20px 0px;
+	color: #fff;
+	font-size: 16px;
+	margin-left: 45%;
+	font-weight:bold;
+	cursor: pointer;
+	outline: none;
+	border-radius: 20px;
+	border: none;
+}
